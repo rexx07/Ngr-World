@@ -2,7 +2,7 @@
 
 namespace NgrWrld.Core;
 
-public class ApiResult
+public class ApiResult<T>
 {
     /// <summary>
     /// Private constructor called by the CreateAsync method.
