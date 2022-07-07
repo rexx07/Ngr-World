@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreCommonOptions">
+    <option name="migrationsToStartupProjects">
+      <map>
+        <entry key="cb37f99f-9d20-4000-a738-5b83a44909b8" value="36e4a44a-82e1-4671-aed6-ab75ca70a0bd" />
+      </map>
+    </option>
+    <option name="solutionLevelOptions">
+      <map>
+        <entry key="migrationsProject" value="cb37f99f-9d20-4000-a738-5b83a44909b8" />
+        <entry key="startupProject" value="36e4a44a-82e1-4671-aed6-ab75ca70a0bd" />
+      </map>
+    </option>
+    <option name="startupToMigrationsProjects">
+      <map>
+        <entry key="36e4a44a-82e1-4671-aed6-ab75ca70a0bd" value="cb37f99f-9d20-4000-a738-5b83a44909b8" />
+      </map>
+    </option>
+  </component>
+</project>
